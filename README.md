@@ -94,5 +94,3 @@ I used this setup to:
 🧩 **Skills:** User feedback, continuous improvement, integrations
 
 ---
-
-## 🧩 Repo Layout
