@@ -1,0 +1,52 @@
+# OS and editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+~$*
+
+# Logs and temp data
+*.log
+*.tmp
+*.bak
+*.old
+
+# Raw assets (before redaction)
+**/assets/raw/
+**/assets/original/
+**/assets/unredacted/
+**/assets/*.xcf
+**/assets/*.psd
+
+# Exports and backups
+*.csv
+*.xlsx
+*.xls
+*.json
+*.zip
+*.tar.gz
+*.bak
+
+# Python (if used for analytics)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# VSCode or JetBrains configs
+.vscode/
+.idea/
+
+# Screenshots cache or edited versions
+*.xcf
+*.psd
+*.ai
+*.svg~
+
+# Local notes not meant for Git
+notes_local.md
+scratchpad.md
+todo.txt
